@@ -1,6 +1,6 @@
 package hw1;
 
-public class aaa {
+public class HomeWorka {
 	public static void main(String[] args) {
 		
 		int a = 12, b = 6;

@@ -1,6 +1,6 @@
 package hw1;
 
-public class eee {
+public class HomeWorke {
 	public static void main(String[] args) {
 		int y, money=1_500_000;
 	    double rate = 0.02;

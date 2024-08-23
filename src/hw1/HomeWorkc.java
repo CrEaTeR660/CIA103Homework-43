@@ -1,6 +1,6 @@
 package hw1;
 
-public class ccc {
+public class HomeWorkc {
 	public static void main(String[] args) {
 		
 		int ttlsecs = 256559, hrs = 24, mins = 60, secs = 60; 
